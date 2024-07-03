@@ -1,0 +1,388 @@
+/* 
+  Localizable.strings
+  VakaryIOS
+
+  Created by Marques on 14/08/2023.
+  
+*/
+
+"startV1" = "Anfangen";
+"startV2" = "Haben Sie bereits ein Konto?";
+"WalkthroughN1" = "Willkommen!";
+"WalkthroughD1" = "";
+"WalkthroughN2" = "Erstellen Sie Ihre Route";
+"WalkthroughD2" = "Geben Sie uns Ihre touristischen Vorlieben, wir kümmern uns um den Rest!";
+"WalkthroughN3" = "Ihre Route";
+"WalkthroughD3" = "Ihre personalisierte Route ist fertig, Sie müssen nur noch entdecken.";
+"WalkthroughN4" = "Mit mehreren Leuten losziehen";
+"WalkthroughD4" = "Teilen Sie Ihre Routen und Positionen mit unserer Gruppenfunktion.";
+"WalkthroughN5" = "Reisen Sie!";
+"WalkthroughD5" = "Machen Sie eine Weltreise, wir werden Ihr bester Begleiter sein.";
+"SignInV1" = "Benutzername";
+"SignInV2" = "Passwort";
+"SignInV3" = "Anmelden";
+"SignInV4" = "Passwort vergessen?";
+"SignInV5" = "Haben Sie kein Konto?";
+"SignInV6" = "Fehler";
+"SignInV7" = "Ihre E-Mail oder Ihr Passwort ist falsch";
+"SignInV8" = "Ein oder mehrere Felder sind nicht ausgefüllt";
+"SignUpV1" = "Meine Nummer ist";
+"SignUpV2" = "Verlieren Sie nicht den Zugang zu Ihrem Konto, überprüfen Sie Ihre Telefonnummer.";
+"SignUpV3" = "Fortfahren";
+"SignUpV4" = "Was ist Ihre E-Mail-Adresse?";
+"SignUpV5" = "Wir senden Ihnen eine E-Mail mit einem Bestätigungscode.";
+"SignUpV6" = "E-Mail";
+"SignUpV7" = "Fortfahren";
+"SignUpV8" = "Erstellen Sie Ihr Passwort";
+"SignUpV9" = "Ihr Passwort muss mindestens 8 Zeichen, Groß- und Kleinbuchstaben, Zahlen und Symbole enthalten.";
+"SignUpV10" = "Passwort";
+"SignUpV11" = "Passwort bestätigen";
+"SignUpV12" = "Fortfahren";
+"SignUpV13" = "Erstellen Sie Ihr Profil";
+"SignUpV14" = "Um ein Banner- oder Profilbild hinzuzufügen, klicken Sie auf das Element.";
+"SignUpV15" = "Benutzername";
+"SignUpV16" = "Sie können Ihr Profilbild, Bannerbild und Ihre Beschreibung später ändern, wenn Sie möchten.";
+"SignUpV17" = "Fortfahren";
+"SignUpV18" = "Fehler";
+"SignUpV19" = "Interner Fehler";
+"LostP1" = "Passwort vergessen?";
+"LostP2" = "Bitte geben Sie Ihre E-Mail ein. Wir senden Ihnen einen Link, um Ihr Passwort zurückzusetzen.";
+"LostP3" = "E-Mail";
+"LostP4" = "Wiederherstellungslink senden";
+"OpenMail1" = "Wir haben Ihnen den Link geschickt";
+"OpenMail2" = "Öffnen Sie ihn, um das Passwort zurückzusetzen. Sie können ihn nicht finden? Überprüfen Sie den Spam-Ordner.";
+"OpenMail3" = "Mail öffnen";
+"ItineraryV1" = "Wählen Sie eine Start- und Endzeit für Ihre Route";
+"ItineraryV2" = "Anfang:";
+"ItineraryV3" = "Ende:";
+"ItineraryV4" = "Geben Sie ein maximales Budget für diese Route an";
+"ItineraryV5" = "Geben Sie die Anzahl der Erwachsenen (+18) und die Anzahl der Kinder (-18) an";
+"ItineraryV6" = "Erwachsene";
+"ItineraryV7" = "Kinder";
+"ItineraryV8" = "Wählen Sie eine Gruppe";
+"ItineraryV9" = "Keine Gruppe";
+"ItineraryV10" = "Was möchten Sie sehen?";
+"ItineraryV11" = "Benötigen Sie einen barrierefreien Zugang?";
+"ItineraryV12" = "Erstellen!";
+"ItinerarySummV1" = "Route teilen";
+"ItinerarySummV2" = "Die Route hat begonnen seit:";
+"ItinerarySummV3" = "Orte, die Sie noch sehen müssen:";
+"ItinerarySummV4" = "Gesehene Orte:";
+"ItinerarySummV5" = "Route beenden";
+"ProfilV1" = "Foto ändern";
+"ProfilV2" = "Bestätigen";
+"ProfilV3" = "Beschreibung ändern";
+"ProfilV4" = "Beschreibung";
+"ProfilV5" = "Bewertungen";
+"ProfilV6" = "Kommentare";
+"ProfilV7" = "Gefällt mir";
+"ProfilV8" = "Zurückgelegte Kilometer";
+"ProfilV9" = "Lieblingsstadt";
+"ProfilV10" = "Zuletzt besuchte Stadt";
+"ProfilV11" = "Lieblingsaktivität";
+"ProfilV12" = "Hobbys";
+"ProfilV13" = "Natur";
+"ProfilV14" = "Geschichte";
+"ProfilV15" = "Kultur";
+"ProfilV16" = "Verkostung";
+"GroupV1" = "Meine Gruppen";
+"GroupV2" = "Anfragen";
+"GroupV3" = "Gruppe erstellen";
+"CreateGroupV1" = "Gruppenname";
+"CreateGroupV2" = "Mitglieder hinzufügen";
+"CreateGroupV3" = "Hinzufügen";
+"CreateGroupV4" = "Foto hinzufügen";
+"CreateGroupV5" = "Foto ändern";
+"CreateGroupV6" = "Gruppe erstellen";
+"CreateGroupV7" = "Es ist ein Fehler bei der Erstellung der Gruppe aufgetreten";
+"GroupSetingsV1" = "Mitglieder";
+"GroupSetingsV2" = "Gruppenmitglieder anzeigen";
+"GroupSetingsV3" = "Mehr Aktionen";
+"GroupSetingsV4" = "Fotos und Dateien anzeigen";
+"GroupSetingsV5" = "Benachrichtigungen und Töne";
+"GroupSetingsV6" = "Privat";
+"GroupSetingsV7" = "Gruppe verlassen";
+"GroupSetingsV8" = "Gruppe löschen";
+"GroupSetingsV9" = "Bearbeiten";
+"GroupSetingsV10" = "Gruppenfoto";
+"GroupSetingsV11" = "Gruppenname";
+"GroupSetingsV12" = "Foto ändern";
+"GroupSetingsV13" = "Bestätigen";
+"GroupSetingsV14" = "Neuer Gruppenname";
+"GroupSetingsV15" = "Abbrechen";
+"GroupSetingsV16" = "OK";
+"GroupSetingsV17" = "Route starten";
+"GroupSetingsV18" = "Sind Sie sicher, dass Sie die Gruppe löschen möchten?";
+"GroupSetingsV19" = "Löschen";
+"GroupSetingsV20" = "Abbrechen";
+"GroupSetingsV21" = "Nur der Gruppenleiter kann die Gruppe löschen";
+"GroupSetingsV22" = "Abbrechen";
+"GroupSetingsV23" = "Gruppe";
+"ShowGroupV1" = "Mitglied hinzufügen";
+"ShowGroupV2" = "Senden";
+"ShowGroupV3" = "Löschen";
+"ShowGroupV4" = "Mitglieder";
+"ShowGroupV5" = "Fehler";
+"ShowGroupV6" = "Erfolg";
+"ShowGroupV7" = "Fehler beim Löschen des Benutzers";
+"ShowGroupV8" = "Benutzer löschen";
+"ShowGroupV9" = "Die Einladung an den Benutzer wurde erfolgreich gesendet";
+"ShowGroupV10" = "Fehler beim Versenden der Einladung";
+"MainV1" = "Gruppen";
+"MainV2" = "Karte";
+"MainV3" = "Profil";
+"MainV4" = "Einstellungen";
+"SettingsV1" = "Präferenzen";
+"SettingsV2" = "Allgemein";
+"SettingsV3" = "Anzeige";
+"SettingsV4" = "Kartenanzeige";
+"SettingsV5" = "Navigation";
+"SettingsV6" = "Konto";
+"SettingsV7" = "Datenschutz";
+"SettingsV8" = "Konto und Anmeldung";
+"SettingsV9" = "Benachrichtigungen";
+"SettingsV10" = "Töne und Alarme";
+"SettingsV11" = "Sonstiges";
+"SettingsV12" = "Hilfe";
+"SettingsV13" = "Über";
+"SettingsV14" = "Kontakt und Hilfe";
+"SettingsV15" = "Abmelden";
+"SettingsV16" = "Abmelden";
+"SettingsDisplayV1" = "Dunkelmodus deaktivieren";
+"SettingsDisplayV2" = "Dunkelmodus aktivieren";
+"SettingsMapV1" = "Standard";
+"SettingsMapV2" = "Hybrid";
+"SettingsMapV3" = "Satellit";
+"SettingsNavV1" = "Unbefestigte Straßen vermeiden";
+"SettingsNavV2" = "Barrierefreiheit";
+"SettingsNavV3" = "Kürzeste Wege bevorzugen";
+"SettingsNavV4" = "Panoramawege bevorzugen";
+"SettingsNavV5" = "Bergwege vermeiden";
+"SettingsNavV6" = "Navigation";
+"SettingsA&LV1" = "Einstellungen";
+"SettingsA&LV2" = "Kontoinformationen";
+"SettingsA&LV3" = "Passwort ändern";
+"SettingsA&LV4" = "Konto deaktivieren";
+"SettingsA&LV5" = "Ihr Konto";
+"SettingsA&LV6" = "Zeigen Sie Ihre Kontoinformationen an, ändern Sie Ihr Passwort oder deaktivieren Sie Ihr Konto.";
+"SettingsA&LV7" = "Konto und Anmeldung";
+"SettingsAccountInfV1" = "Kontoinformationen";
+"SettingsAccountInfV2" = "Überprüfen Sie Ihre Kontoinformationen, Sie können diese aktualisieren oder fehlende Informationen ergänzen";
+"SettingsAccountInfV3" = "Benutzername";
+"SettingsAccountInfV4" = "Telefonnummer";
+"SettingsAccountInfV5" = "E-Mail";
+"SettingsAccountInfV6" = "Passwort aktualisieren";
+"SettingsNewPassV1" = "Aktualisieren";
+"SettingsNewPassV2" = "Klicken Sie auf die Schaltfläche unten, um Ihr Passwort zu ändern. Sie erhalten eine E-Mail und können Ihr Passwort ändern.";
+"SettingsNewPassV3" = "Aktualisieren";
+"SettingsNewPassV4" = "Passwort aktualisieren";
+"SettingsDeleteAccV1" = "Dies wird Ihr Konto deaktivieren";
+"SettingsDeleteAccV2" = "Sie sind dabei, den Vorgang zur Deaktivierung Ihres VAKARY-Kontos zu starten. Ihr Anzeigename, Ihre E-Mail-Adresse und Ihre Telefonnummer werden auf keiner Plattform mehr sichtbar sein.";
+"SettingsDeleteAccV3" = "Was Sie auch wissen sollten";
+"SettingsDeleteAccV4" = "Wenn Sie nur Ihren Benutzernamen oder Ihre E-Mail ändern möchten, müssen Sie das Konto nicht deaktivieren, Sie können dies direkt in den Einstellungen vornehmen.";
+"SettingsNotif1" = "Alle Push-Benachrichtigungen erhalten";
+"SettingsNotif2" = "Spaßige Ankündigung";
+"SettingsNotif3" = "Neuigkeiten und Updates von Vakary";
+"SettingsNotif4" = "Benachrichtigung";
+"SettingsS&A1" = "Routenton";
+"SettingsS&A2" = "Nachrichtenton";
+"SettingsS&A3" = "Klangbenachrichtigungen";
+"SettingsS&A4" = "Töne und Warnungen";
+"SettingsAbout1" = "Impressum";
+"SettingsAbout2" = "Nutzungsbedingungen";
+"SettingsAbout3" = "Datenschutzrichtlinie";
+"SettingsAbout4" = "Verwendung von Cookies";
+"SettingsAbout5" = "Impressum";
+"SettingsAbout6" = "Absturzberichte senden";
+"SettingsAbout7" = "Senden Sie Absturzberichte direkt an unsere Teams, um zur Verbesserung dieser Anwendung beizutragen.";
+"SettingsC&S1" = "Ihre E-Mail-Adresse";
+"SettingsC&S2" = "Problem";
+"SettingsC&S3" = "Wählen Sie Ihr Problem aus";
+"SettingsC&S4" = "Mein Standort funktioniert nicht";
+"SettingsC&S5" = "Mein Abonnement ist gescheitert";
+"SettingsC&S6" = "Andere";
+"SettingsC&S7" = "Text (...)";
+"SettingsC&S8" = "Anfrage senden";
+"SettingsC&S9" = "Kontakt und Unterstützung";
+"ItineraryV13" = "Tour";
+"ItineraryV14" = "Veranstaltung";
+"ItineraryV15" = "Natürlich";
+"ItineraryV16" = "Aktivität";
+"ItineraryV17" = "Trinken";
+"ItineraryV18" = "Kulturell";
+"ItineraryV19" = "Essen";
+"ItineraryV20" = "Fahrradtour";
+"ItineraryV21" = "Straßentour";
+"ItineraryV22" = "Wandertour";
+"ItineraryV23" = "Tour";
+"ItineraryV24" = "Touristenzug";
+"ItineraryV25" = "Showveranstaltung";
+"ItineraryV26" = "Soziale Veranstaltung";
+"ItineraryV27" = "Sportveranstaltung";
+"ItineraryV28" = "Unterhaltungs- und Veranstaltung";
+"ItineraryV29" = "Ausstellungsveranstaltung";
+"ItineraryV30" = "Kulturveranstaltung";
+"ItineraryV31" = "Landform";
+"ItineraryV32" = "Park";
+"ItineraryV33" = "Park und Garten";
+"ItineraryV34" = "Fluss";
+"ItineraryV35" = "Flusshafen";
+"ItineraryV36" = "Bowlingbahn";
+"ItineraryV37" = "Kino";
+"ItineraryV38" = "Spiel";
+"ItineraryV39" = "Minigolf";
+"ItineraryV40" = "Kino";
+"ItineraryV41" = "Theater";
+"ItineraryV42" = "Vergnügungspark";
+"ItineraryV43" = "Themenpark";
+"ItineraryV44" = "Ausstellung";
+"ItineraryV45" = "Freizeitzentrum";
+"ItineraryV46" = "Maritim";
+"ItineraryV47" = "Bar oder Kneipe";
+"ItineraryV48" = "Bistro oder Weinbar";
+"ItineraryV49" = "Nachtclub";
+"ItineraryV50" = "Weingut";
+"ItineraryV51" = "Verkostungsanbieter";
+"ItineraryV52" = "Schloss";
+"ItineraryV53" = "Kirche";
+"ItineraryV54" = "Stadterbe";
+"ItineraryV55" = "Militärfriedhof";
+"ItineraryV56" = "Museum";
+"ItineraryV57" = "Naturschutzgebiet";
+"ItineraryV58" = "Religiöse Stätte";
+"ItineraryV59" = "Gedenkstätte";
+"ItineraryV60" = "Bemerkenswertes Gebäude";
+"ItineraryV61" = "Kulturelle Stätte";
+"ItineraryV62" = "Fast-Food-Restaurant";
+"ItineraryV63" = "Lebensmittelbetrieb";
+"ItineraryV64" = "Restaurant";
+"ItineraryV65" = "Selbstversorgungsunterkunft";
+"ItineraryV66" = "Selbstbedienungscafeteria";
+"ItineraryV67" = "Café oder Kaffeehaus";
+"ItineraryV68" = "Café oder Teehaus";
+"ItineraryV69" = "Ihre bevorzugten Reiserouten";
+"ItineraryV70" = "Möchten Sie diese Einstellungen in Ihren Favoriten speichern?";
+"ItineraryV71" = "Mein Standort";
+"ItineraryV72" = "Geben Sie eine Stadt ein";
+"ItineraryV73" = "Benennen Sie Ihr Profil hier";
+"ItineraryV74" = "Wählen Sie einen Standort aus";
+"ItineraryV75" = "Wählen Sie Ihre bevorzugten Reiserouten aus";
+"ItineraryV76" = "Wählen Sie die Dauer Ihrer Reiseroute aus";
+"ItineraryV77" = "Wählen Sie das geeignete Budget für Ihre Reiseroute aus";
+"ItineraryV78" = "Wählen Sie die Anzahl der Personen aus";
+"ItineraryV79" = "Wählen Sie Ihre Präferenzen aus den folgenden Kategorien aus";
+"ItineraryV80" = "Wählen Sie eine Gruppe aus, um sie mit der Reiseroute zu verknüpfen";
+"ItineraryV81" = "Es kann keine Route generiert werden";
+
+"createGroupV10" = "Löschen";
+"createGroupV11" = "Fehler";
+"createGroupV12" = "Erfolg";
+"createGroupV13" = "Gruppe erstellt";
+
+"groupSettingV25" = "Auswählen";
+"groupSettingV26" = "Fehler";
+"groupSettingV27" = "Fehler beim Start der Route";
+"groupSettingV28" = "Erfolg";
+"groupSettingV29" = "Die Route wurde erfolgreich gestartet";
+
+"groupV10" = "Akzeptieren";
+"groupV11" = "Ablehnen";
+"groupV12" = "Fehler";
+"groupV13" = "Ein Fehler ist aufgetreten";
+"groupV14" = "Erfolg";
+"groupV15" = "Sie haben die Anfrage erfolgreich akzeptiert";
+"groupV16" = "Fehler";
+"groupV17" = "Ein Fehler ist aufgetreten";
+"groupV18" = "Erfolg";
+"groupV19" = "Sie haben die Anfrage erfolgreich abgelehnt";
+
+"showGroupV10" = "Fehler";
+"showGroupV11" = "Fehler beim Senden der Einladung";
+"showGroupV12" = "Erfolg";
+"showGroupV13" = "Mitgliedseinladung gesendet";
+"showGroupV14" = "Fehler";
+"showGroupV15" = "Das Mitglied konnte nicht gelöscht werden";
+"showGroupV16" = "Erfolg";
+"showGroupV17" = "Mitglied gelöscht";
+
+"chatV1" = "Nachricht";
+"chatV2" = "Sie";
+
+"infoPreviousItinV1" = "Ungültiges Datum";
+
+"profilV20" = "Meine vorherigen Routen anzeigen";
+
+"editedProfilV1" = "Ändern";
+"editedProfilV2" = "Benutzername";
+"editedProfilV3" = "Fehler";
+"editedProfilV4" = "Beschreibung";
+"editedProfilV5" = "Fehler";
+"editedProfilV6" = "Profil bearbeiten";
+"editedProfilV7" = "Fehler";
+"editedProfilV8" = "Fehler beim Aktualisieren des Profils";
+"editedProfilV9" = "Erfolg";
+"editedProfilV10" = "Ihr Profil wurde erfolgreich aktualisiert";
+
+"deletedAccountV1" = "Löschen";
+"deletedAccountV2" = "Löschung bestätigen";
+"deletedAccountV3" = "Sind Sie sicher, dass Sie Ihr Konto löschen möchten? Dieser Vorgang ist nicht rückgängig zu machen.";
+"deletedAccountV4" = "Löschen";
+"deletedAccountV5" = "Abbrechen";
+
+"aboutV1" = "Version";
+"aboutV2" = "Über";
+
+"contactSupportV1" = "Um Support zu kontaktieren, folgen Sie bitte dem unten stehenden Link";
+
+"navigationSettingsV1" = "Routenhistorie";
+"navigationSettingsV2" = "Verlauf löschen";
+"navigationSettingsV3" = "Barrierefreiheit";
+"navigationSettingsV4" = "Diese Option ermöglicht es uns, nur Orte vorzuschlagen, die für Menschen mit Behinderungen zugänglich sind";
+
+"notificationSettingsV1" = "Einladung in eine Gruppe";
+"notificationSettingsV2" = "Nachricht";
+"notificationSettingsV3" = "Routenstart";
+
+"SettingsV20" = "Konto";
+"SettingsV21" = "Datenschutz";
+
+"soundAndAlertV1" = "Ton und Vibration";
+"soundAndAlertV2" = "Einladung in eine Gruppe";
+"soundAndAlertV3" = "Nachricht";
+
+"confidentalityV1" = "Profil ausblenden";
+"confidentalityV2" = "Niemand wird Ihr Profil sehen können";
+"confidentalityV3" = "Cookies zulassen";
+"confidentalityV4" = "Für weitere Informationen lesen Sie bitte die Datenschutzrichtlinie. Die Änderungen werden nach dem Neustart der Anwendung wirksam";
+"confidentalityV5" = "Datenschutz";
+
+"generalSettingsV10" = "Einstellungen zurücksetzen";
+
+"helpV1" = "Hilfe";
+"helpV2" = "1. Was ist Vakary?";
+"helpV3" = "Vakary ist eine mobile Anwendung, mit der Sie personalisierte Reiserouten entsprechend Ihren Vorlieben und Interessen erstellen können.";
+
+"helpV4" = "2. Wie lade ich Vakary auf mein Telefon herunter?";
+"helpV5" = "Sie können Vakary kostenlos im App Store (für iOS-Geräte) oder im Google Play Store (für Android-Geräte) herunterladen. Vakary ist auch in einer Webversion verfügbar.";
+
+"helpV6" = "3. Wie erstelle ich personalisierte Routen?"; "helpV7" = "Vakary verwendet einen intelligenten Algorithmus, der Ihre Reisevorlieben, Interessen, Ihr Budget und die Dauer Ihres Aufenthalts berücksichtigt, um einzigartige Routen zu generieren, die Ihren Bedürfnissen entsprechen.";
+
+"helpV8" = "4. Wie plane ich meine Reise mit Vakary?"; "helpV9" = "Nach der Installation der Anwendung öffnen Sie diese und beantworten einige Fragen zu Ihren Reisevorlieben. Vakary verwendet diese Informationen, um eine anfängliche Route zu erstellen, die Sie anschließend anpassen können.";
+
+"helpV10" = "5. Wie füge ich meine eigenen Ziele hinzu?"; "helpV11" = "Absolut! Sie können Ziele der von Vakary generierten Route hinzufügen, löschen oder ändern. Die Anwendung bietet Ihnen maximale Flexibilität, um die perfekte Route zu erstellen.";
+
+"helpV12" = "6. Wie berücksichtige ich mein Budget?"; "helpV13" = "Ja, während der Planung können Sie Ihr geplantes Budget für die Reise angeben. Vakary berücksichtigt diese Informationen, um Aktivitäten, Unterkünfte und Restaurants vorzuschlagen, die zu Ihrem Budget passen.";
+
+"helpV14" = "7. Wie ändere ich einen Teil der Route?"; "helpV15" = "Kein Problem! Sie können Ihre Route jederzeit ändern. Fügen Sie neue Stationen hinzu, organisieren Sie diese um oder entfernen Sie sie entsprechend Ihrer neuen Auswahl.";
+
+"helpV16" = "8. Empfehlungen für lokale Aktivitäten und Restaurants?"; "helpV17" = "Ja, Vakary wird Ihnen Aktivitäten, touristische Attraktionen, Restaurants und vieles mehr empfehlen, basierend auf Ihren Vorlieben und Ihrem Standort.";
+
+"helpV18" = "9. Wie teile ich meine Route mit anderen Reisenden?"; "helpV19" = "Natürlich können Sie Ihre Route über soziale Medien, per E-Mail oder sogar durch Generieren eines Direktlinks mit Freunden, Familie oder anderen Reisenden teilen.";
+
+"helpV20" = "10. Funktioniert Vakary offline?"; "helpV21" = "Nein, leider befindet sich diese Funktion derzeit in der Entwicklung und wird bald verfügbar sein.";
+
+"helpV22" = "11. Wie erhalte ich Unterstützung?"; "helpV23" = "Die Anwendung verfügt über einen umfassenden Hilfebereich, in dem Sie Antworten auf häufig gestellte Fragen finden. Wenn Sie keine Antwort finden, können Sie sich auch über die Anwendung an unser Supportteam wenden.";
+
+"helpV24" = "12. Sonderangebote/Rabatte für Aktivitäten?"; "helpV25" = "Nein, derzeit arbeiten wir an Partnerschaften, um Ihnen attraktive Preise bieten zu können.";
+
+"helpV26" = "13. Sind meine persönlichen Daten sicher?"; "helpV27" = "Absolut, die Sicherheit Ihrer Daten hat für uns oberste Priorität. Ihre persönlichen Informationen sind verschlüsselt und gemäß unseren Datenschutzrichtlinien geschützt.";
